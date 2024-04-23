@@ -6,6 +6,7 @@ This lab focuses on creating a simple web app using Streamlit to visualize data 
 
 <img width="1512" alt="Screenshot 2024-04-23 at 15 22 48" src="https://github.com/FenglyuLiu/TECHIN510-Lab2/assets/88125716/d75e236c-6b50-41ad-b875-b40b9f55a3a3">
 
+<img width="1512" alt="Screenshot 2024-04-23 at 15 23 40" src="https://github.com/FenglyuLiu/TECHIN510-Lab2/assets/88125716/a08e2f9d-c5a0-49f9-91a2-d30a2ecebe1f">
 
 
 ## How to Run
