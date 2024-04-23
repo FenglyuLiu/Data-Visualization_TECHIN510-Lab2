@@ -3,6 +3,7 @@
 ## Introduction
 
 This lab focuses on creating a simple web app using Streamlit to visualize data from a dataset.
+
 <img width="1512" alt="Screenshot 2024-04-23 at 15 22 48" src="https://github.com/FenglyuLiu/TECHIN510-Lab2/assets/88125716/d75e236c-6b50-41ad-b875-b40b9f55a3a3">
 
 
